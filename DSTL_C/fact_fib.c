@@ -45,4 +45,5 @@ int main()
     {
         printf("%d\t",fib(i));
     }
+    return 0;
 }
